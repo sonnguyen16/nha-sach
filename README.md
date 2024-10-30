@@ -1,1 +1,1 @@
-Dự án quản lý tuyến đường sử dụng VueJS + Laravel + InertiaJS
+Dự án quản lý đơn bán sỉ nhà sách
